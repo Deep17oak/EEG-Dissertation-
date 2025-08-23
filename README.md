@@ -1,1 +1,2 @@
 # EEG-Dissertation: Analysing the Impact of Electrode Position and Skull Conductivity on EEG Signal Accuracy
+EEG measures brain electrical activity from cortical neurons, modeled as dipoles under quasi-static conditions via Poisson's equation. Objectives include: (1) Spherical model for potential distribution; (2) Realistic MRI-based model with 133 electrodes; (3) Simulate random position errors; (4) Assess conductivity impacts.
